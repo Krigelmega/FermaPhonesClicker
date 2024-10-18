@@ -1,0 +1,9 @@
+{
+    "api_id": 27499117,
+    "api_hash": "26f8332d42f4221efd6efe1d03b45e6f",
+    "admin": 1315421133,
+    "auto_upgrade": true,
+    "max_charge_level": 5,
+    "max_energy_level": 10,
+    "max_tap_level": 10
+}
